@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Ankita Bera!
 
-🎓 B.Tech CSE (AI & ML) Student • 💻 Full Stack Developer • 🐍 PYTHON Developer
+🎓 B.Tech CSE (AI & ML) Student • 💻 Full Stack Developer • 🐍 Python Developer 
 
 Welcome to my little corner of GitHub! 🚀
 
@@ -18,12 +18,10 @@ Here you'll find my journey of learning, building, and experimenting with techno
 Here are some ideas to get you started:
 
 - 🎓 B.Tech CSE (AI & ML) Student
-- 🌱 currently learning React.js, Node.js, MongoDB, Machine Learning & Deep Learning
+- 🌱 Currently learning React.js, Node.js, MongoDB, Machine Learning & Deep Learning
 - 🔭 Currently working on Portfolio Website.
 - 👯 I’m looking to collaborate on Open Source & AI Projects.
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Python, Java, HTML, CSS, JavaScript & AI.
-- 📫 How to reach me: linkedin
 - ⚡ Fun fact: I love turning ideas into real-world projects.
 
 
