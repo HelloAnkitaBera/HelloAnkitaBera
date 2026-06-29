@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Ankita Bera!
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Ankita%20Bera&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=💻%20Full%20Stack%20Developer%20%7C%20🐍%20Python%20Developer&descAlignY=58"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Ankita%20Bera&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%F0%9F%92%9C%20Learning.%20Building.%20Growing%20%F0%9F%92%9C&descAlignY=58"/>
 </p>
 
 <p align="center">
@@ -58,6 +58,6 @@ Here are some ideas to get you started:
 
 🌸 Happy Coding 🌸
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&animation=twinkling&color=gradient&customColorList=12,20,24,30"/>
 </p>
