@@ -1,10 +1,15 @@
 ## 👋 Hi there, I'm Ankita Bera!
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Ankita%20Bera&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=💻%20Full%20Stack%20Developer%20%7C%20🐍%20Python%20Developer&descAlignY=58"/>
+</p>
+
 <p align="center">
 <img width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 🎓 B.Tech CSE (AI & ML) Student • 💻 Full Stack Developer • 🐍 Python Developer 
 
-Welcome to my little corner of GitHub! 🚀
+✨ Welcome to my little corner of GitHub! 🚀
 
 Here you'll find my journey of learning, building, and experimenting with technology. I enjoy transforming ideas into real-world applications, exploring Artificial Intelligence, developing full-stack web applications, and contributing to open-source projects.
 
@@ -47,3 +52,12 @@ Here are some ideas to get you started:
 - 🚀 Learning never stops.
 - 🎯 Dreaming big, coding bigger.
 ---
+<p align="center">
+
+✨ Thanks for visiting my profile! ✨
+
+🌸 Happy Coding 🌸
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
+
+</p>
