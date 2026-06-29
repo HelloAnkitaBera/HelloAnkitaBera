@@ -1,6 +1,5 @@
-## Hi there 👋
 
-# 👋 Hi there, I'm Ankita Bera!
+## 👋 Hi there, I'm Ankita Bera!
 
 🎓 B.Tech CSE (AI & ML) Student • 💻 Full Stack Developer • 🐍 Python Developer 
 
