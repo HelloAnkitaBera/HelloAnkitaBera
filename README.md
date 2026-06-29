@@ -1,5 +1,6 @@
-
 ## 👋 Hi there, I'm Ankita Bera!
+<p align="center">
+<img width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 🎓 B.Tech CSE (AI & ML) Student • 💻 Full Stack Developer • 🐍 Python Developer 
 
